@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/aaa/.idea/aaa.iml" filepath="F:/aaa/.idea/aaa.iml" />
+      <module fileurl="file://F:/app/.idea/app.iml" filepath="F:/app/.idea/app.iml" />
+      <module fileurl="file://F:/dailyfresh/.idea/dailyfresh.iml" filepath="F:/dailyfresh/.idea/dailyfresh.iml" />
+      <module fileurl="file://F:/day20/.idea/day20.iml" filepath="F:/day20/.idea/day20.iml" />
+      <module fileurl="file://F:/day21/.idea/day21.iml" filepath="F:/day21/.idea/day21.iml" />
+      <module fileurl="file://F:/dd/.idea/dd.iml" filepath="F:/dd/.idea/dd.iml" />
+      <module fileurl="file://F:/lianxi/.idea/lianxi.iml" filepath="F:/lianxi/.idea/lianxi.iml" />
+      <module fileurl="file://F:/mm/.idea/mm.iml" filepath="F:/mm/.idea/mm.iml" />
+      <module fileurl="file://F:/lianxi/pc/.idea/pc.iml" filepath="F:/lianxi/pc/.idea/pc.iml" />
+      <module fileurl="file://F:/ppcrn/.idea/ppcrn.iml" filepath="F:/ppcrn/.idea/ppcrn.iml" />
+      <module fileurl="file://F:/ppxm/.idea/ppxm.iml" filepath="F:/ppxm/.idea/ppxm.iml" />
+      <module fileurl="file://F:/project/.idea/project.iml" filepath="F:/project/.idea/project.iml" />
+      <module fileurl="file://F:/project1/.idea/project1.iml" filepath="F:/project1/.idea/project1.iml" />
+      <module fileurl="file://F:/project2/.idea/project2.iml" filepath="F:/project2/.idea/project2.iml" />
+      <module fileurl="file://F:/project666/.idea/project666.iml" filepath="F:/project666/.idea/project666.iml" />
+      <module fileurl="file://F:/lianxi/selenium/.idea/selenium.iml" filepath="F:/lianxi/selenium/.idea/selenium.iml" />
+      <module fileurl="file://F:/shiyan/.idea/shiyan.iml" filepath="F:/shiyan/.idea/shiyan.iml" />
+      <module fileurl="file://F:/tt/.idea/tt.iml" filepath="F:/tt/.idea/tt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+      <module fileurl="file://F:/web/.idea/web.iml" filepath="F:/web/.idea/web.iml" />
+      <module fileurl="file://F:/wechat/.idea/wechat.iml" filepath="F:/wechat/.idea/wechat.iml" />
+      <module fileurl="file://F:/xiangmu/.idea/xiangmu.iml" filepath="F:/xiangmu/.idea/xiangmu.iml" />
+      <module fileurl="file://F:/xm/.idea/xm.iml" filepath="F:/xm/.idea/xm.iml" />
+      <module fileurl="file://F:/yanxi/.idea/yanxi.iml" filepath="F:/yanxi/.idea/yanxi.iml" />
+      <module fileurl="file://F:/zuhe/.idea/zuhe.iml" filepath="F:/zuhe/.idea/zuhe.iml" />
+    </modules>
+  </component>
+</project>

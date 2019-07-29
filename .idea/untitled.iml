@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 (F:\py3.5\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="lianxi" />
+    <orderEntry type="module" module-name="selenium" />
+    <orderEntry type="module" module-name="pc" />
+    <orderEntry type="module" module-name="shiyan" />
+    <orderEntry type="module" module-name="www" />
+    <orderEntry type="module" module-name="mysite" />
+    <orderEntry type="module" module-name="learn" />
+    <orderEntry type="module" module-name="wechat" />
+    <orderEntry type="module" module-name="yanxi" />
+    <orderEntry type="module" module-name="day20" />
+    <orderEntry type="module" module-name="day21" />
+    <orderEntry type="module" module-name="web" />
+    <orderEntry type="module" module-name="zuhe" />
+    <orderEntry type="module" module-name="dd" />
+    <orderEntry type="module" module-name="ppxm" />
+    <orderEntry type="module" module-name="ppcrn" />
+    <orderEntry type="module" module-name="project" />
+    <orderEntry type="module" module-name="project1" />
+    <orderEntry type="module" module-name="project2" />
+    <orderEntry type="module" module-name="project666" />
+    <orderEntry type="module" module-name="app" />
+    <orderEntry type="module" module-name="dailyfresh" />
+    <orderEntry type="module" module-name="xm" />
+    <orderEntry type="module" module-name="tt" />
+    <orderEntry type="module" module-name="xiangmu" />
+    <orderEntry type="module" module-name="mm" />
+    <orderEntry type="module" module-name="aaa" />
+  </component>
+</module>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>1222</title>
+    <style>
+        *{margin:0;padding:0;}
+        .box{
+            width:271px;
+            height:202px;
+            border:1px solid red;
+            margin:50px auto;
+            position:relative;
+        }
+        .box .bg{
+            width:271px;height:202px;background: black;opacity: 0;
+            position:absolute;top:0;transition: 0.3s linear;
+
+        }
+        .box:hover .bg{opacity: 0.7;}
+    </style>
+</head>
+<body>
+   <div class="box">
+       <img src="images/1.jpg">
+       <p class="bg"></p>
+   </div>
+</body>
+</html>

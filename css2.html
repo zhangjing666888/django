@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <style>
+        /*去掉所有标签的间距*/
+        *{
+            margin:0;
+            padding:0;
+        }
+        .listbox{
+            width:271px;
+            height:202px;
+            border:1px solid #333333;
+            margin:100px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .listbox ul li{
+            width:30px;
+            height:30px;
+            background:rgba(0,0,0,0.5);
+            float:left;
+            list-style:none;
+            text-align: center;
+            line-height:30px;
+            color:#fff;
+            margin:0.2px;
+
+
+        }
+        .listbox ul li a{
+            color:#fff;
+            text-decoration: none;
+        }
+        .listbox ul{
+            position:absolute;right:20px;bottom:10px;
+        }
+        .listbox ul li:hover{background:rgba(0,0,0,0.8);}
+        .listbox .listpic{overflow:hidden;width:271px;height:202px;}
+
+
+
+    </style>
+</head>
+<body>
+   <div class="listbox">
+       <div class="listpic">
+           <img src="images/1.jpg" id="pic1">
+           <img src="images/2.jpg" id="pic2">
+       </div>
+       <ul>
+           <li><a href="#pic1">1</a></li>
+           <li><a href="#pic2">2</a></li>
+       </ul>
+
+   </div>
+
+</body>
+</html>
